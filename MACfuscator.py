@@ -1,5 +1,11 @@
 #MACfuscator - Obscuring MAC/Timeline analysis for Windows
 #Joe Avanzato, joeavanzato@gmail.com
+#DO NOT RUN ON LIVE ENVIRONMENT
+#DO NOT RUN ON LIVE ENVIRONMENT
+#DO NOT RUN ON LIVE ENVIRONMENT
+#DO NOT RUN ON LIVE ENVIRONMENT
+#DO NOT RUN ON LIVE ENVIRONMENT
+#I know I'm a bad coder, no need to tell me. But please do tell me how to improve because I barely have any idea what I'm doing.
 #Retrieves specific event log, reads first entry and gets time/date, uses that with current time/date to set boundaries on number generation
 #This insures relatively realistic numbers are displayed rather than impossible datetimes which may be easily filtered (To far in past/future, etc)
 #Attempts to clear System, Security, Setup and Application Logs upon completion -iterates through log list to attempt and find others 
